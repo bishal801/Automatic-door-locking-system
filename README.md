@@ -33,5 +33,3 @@ The system enhances security by verifying a password entered by the user and con
 5. Access status is always shown on the LCD.  
 
 ---
-
-## 📂 Repository Structure
