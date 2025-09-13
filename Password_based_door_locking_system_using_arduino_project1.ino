@@ -1,5 +1,4 @@
-/*Follow and Subscribe to "Virtual Engineer" -> https://youtube.com/@virtualengineer_mks?si=gIin2a2IS9rdfKsC
-Visit our website: "www.lifestyleunboxed.in"*/
+
 
 #include <LiquidCrystal.h>
 #include <Servo.h>
@@ -259,3 +258,4 @@ lcd.setCursor(4,0);
 lcd.print("LOCKED!");
 delay(440);
 }
+
